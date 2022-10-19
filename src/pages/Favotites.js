@@ -15,7 +15,7 @@ const Favotites = () => {
 
   return (
     <section>
-      <h1>My Favotites</h1>
+      <h1>My Favorites</h1>
       {content}
     </section>
   );

@@ -19,7 +19,7 @@ const MainNavigatoin = () => {
           </li>
           <li>
             <Link to="favorites">
-              Favotites
+              Favorites
               <span className={classesMain.badge}>
                 {favoritesCtx.totalFavorites}
               </span>
